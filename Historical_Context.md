@@ -7,4 +7,8 @@ However, the Sisters' own writings demonstrate that mystical aspirations and mys
 While my dissertation demonstrates the mystical quality of the Sisters' spirituality through a methodology of close reading, this present study explores the possibilities for complementing that work through computational text analysis. The aim is to investigate ways in which "distant reading" might augment a close reading approach not only by enhancing the exploration of the dissertation's central questions but also by contributing findings that could either bolster or challenge my original conclusions. In other words, applying digital analysis to my corpus might provide evidence that strengthens and further supports the argument of my dissertation—or that nuances and problematizes it by revealing surprising or contradictory patterns, networks, and trends in the themes within my sources. 
 
 The small handful of extant medieval sources that constitutes the core of my primary research form a discrete yet robust data set for this computational analysis. However, while the texts are available in critical editions, none of them have heretofore been prepared for qualitative analysis.
+
+Sources Cited
+John Van Engen, Devotio moderna: Basic Writings, 30.
+G. H. Gerrits, "Sisterbook of Master Geert’s House," 42.
 This repository contains a demonstration of the process by which these texts were prepared as a coherent and useful corpus for digital analysis, such as text mining, topic modeling, and network visualization. 
