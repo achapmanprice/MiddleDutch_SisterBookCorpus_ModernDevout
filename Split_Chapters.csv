@@ -1,0 +1,4 @@
+Sister Book,Name of Command, Python Script,	Sublime Commands File
+G, Split Chapters, split_chapters.py, split_chapters.sublime-commands
+D, Extract Chapters, extract_chapters_custom.py, extract_chapters_custom.sublime-commands
+E, Divide Chapters, divide_chapters.py, divide_chapters.sublime-commands
