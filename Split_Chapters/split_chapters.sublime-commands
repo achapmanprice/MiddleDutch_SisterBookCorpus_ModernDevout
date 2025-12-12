@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Split Chapters From Document",
+        "command": "split_chapters"
+    }
+]
