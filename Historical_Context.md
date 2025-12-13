@@ -12,6 +12,6 @@ This repository contains a demonstration of the process by which these texts wer
 
 Sources Cited
 
-John Van Engen, Devotio moderna: Basic Writings, 30.
+John Van Engen, _Devotio moderna: Basic Writings_, 30.
 
-G. H. Gerrits, "Sisterbook of Master Geert’s House," 42.
+G. H. Gerrits, _Sisterbook of Master Geert’s House_, 42.
